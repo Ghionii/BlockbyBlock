@@ -1,0 +1,8 @@
+Method: POST Url: /api/v1/blockchain/min Date: 2024-05-13 Time: 00:25:31 Success: undefined - Message: ErrorResponse is not defined
+Method: GET Url: /api/v1/blockchai1 Date: 2024-05-13 Time: 00:28:19 Success: undefined - Message: ErrorResponse is not defined
+Method: GET Url: /api/v1/blockchai1 Date: 2024-05-13 Time: 00:31:10 Success: undefined - Message: ErrorResponse is not defined
+Method: GET Url: /api/v1/blockchai2 Date: 2024-05-13 Time: 00:31:50 Success: false - Message: Can't find /api/v1/blockchai2 on this server!
+Method: POST Url: /api/v1/blockchain/min Date: 2024-05-13 Time: 00:48:00 Success: false - Message: Can't find /api/v1/blockchain/min on this server!
+Method: POST Url: /api/v1/blockchain/minee Date: 2024-05-13 Time: 00:51:26 Success: false - Message: Can't find /api/v1/blockchain/minee on this server!
+Method: POST Url: /api/v1/blockchain/minee Date: 2024-05-13 Time: 00:53:49 Success: false - Message: Can't find /api/v1/blockchain/minee on this server!
+Method: POST Url: /api/v1/blockchain/mineee Date: 2024-05-13 Time: 01:24:45 Success: false - Message: Can't find /api/v1/blockchain/mineee on this server!

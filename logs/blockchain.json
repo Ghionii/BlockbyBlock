@@ -1,0 +1,43 @@
+[
+  {
+    "timestamp": 1715556455990,
+    "blockIndex": 1,
+    "previousBlockHash": "0",
+    "currentBlockHash": "Genesis",
+    "data": [],
+    "difficulty": 3
+  },
+  {
+    "timestamp": 1715556469580,
+    "blockIndex": 2,
+    "previousBlockHash": "Genesis",
+    "currentBlockHash": "00057da85be0d927d7c75f0b68f479c070016419b544fc04aea2bb70b4db5234",
+    "data": {
+      "productName": "Kakor"
+    },
+    "nonce": 180,
+    "difficulty": 3
+  },
+  {
+    "timestamp": 1715556474312,
+    "blockIndex": 3,
+    "previousBlockHash": "00057da85be0d927d7c75f0b68f479c070016419b544fc04aea2bb70b4db5234",
+    "currentBlockHash": "00041f6af4ad4397171e6b5908cc2b34471986595a7e6f53814b048cbc3a5805",
+    "data": {
+      "productName": "bullar"
+    },
+    "nonce": 6161,
+    "difficulty": 3
+  },
+  {
+    "timestamp": 1715556483181,
+    "blockIndex": 4,
+    "previousBlockHash": "00041f6af4ad4397171e6b5908cc2b34471986595a7e6f53814b048cbc3a5805",
+    "currentBlockHash": "000a4f03de2a031bc2cd038950229af30e420f74747d9d8005e032e6441ad599",
+    "data": {
+      "productName": "wienerbröd"
+    },
+    "nonce": 89,
+    "difficulty": 3
+  }
+]
